@@ -6,6 +6,7 @@ add_subdirectory(./editor)
 # add_subdirectory(./test)
 add_subdirectory(./usertype)
 add_subdirectory(./works)
+add_subdirectory(./examples)
 
 if(EXTERNAL_ALL_BUILD)
   add_subdirectory(./libs/SDL)
